@@ -2,6 +2,6 @@
 using namespace std;
 int main() {
 	add(int[] a);
-	mul(int a);
+	sub(int a);
 	cout << "helloworld";
 }
