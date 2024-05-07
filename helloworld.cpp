@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main() {
-	add(int arch,int arch_2);
+	add(int[] a);
 	sub(int a);
 	cout << "helloworld";
 }
